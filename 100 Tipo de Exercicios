@@ -1,0 +1,150 @@
+Você quer algo direto, prático e possível de cumprir. Aqui vai uma rotina simples e uma lista de 100 exercícios fáceis, organizada por categorias, para treinar todos os dias e ganhar confiança em Python. No final, deixo referências com listas já prontas e desafios resolvidos.
+Rotina diária de prática
+
+•	Aquecimento (10 min): releia anotações, execute 1 exercício curto de entrada/saída.
+
+•	Prática principal (40–60 min): resolva 3 a 5 exercícios da lista, com foco em entender erros.
+
+•	Revisão ativa (15 min): explique em voz alta sua solução, teste com casos diferentes e refatore.
+
+•	Registro (5 min): anote o que aprendeu e dúvidas para investigar depois.
+
+Referências úteis para iniciantes
+
+Para complementar, você pode usar listas de exercícios com resolução passo a passo e desafios categorizados por tema. Uma lista com exercícios básicos, condicionais e loops ajuda muito a consolidar fundamentos. Repositórios com mais de 100 desafios resolvidos, divididos em categorias como strings, listas, dicionários, condicionais, repetição, recursão e arquivos, são ótimos para praticar e comparar soluçõesGithub. Artigos com exercícios introdutórios também dão um bom roteiro para começar do zero e evoluir gradualmente.
+Fundamentos e entrada/saída
+
+1.	Olá, mundo: imprimir uma mensagem.
+2.	Versão do Python: mostrar a versão instalada usando sys.
+3.	Eco de entrada: ler um nome e cumprimentar.
+4.	Soma simples: somar dois números.
+5.	Conversão de tipos: transformar string em inteiro e float.
+6.	Formatar saída: usar f-strings com duas casas decimais.
+7.	Área do retângulo: base × altura.
+8.	Área do círculo: usar math.pi e raio.
+9.	Temperatura: converter Celsius para Fahrenheit.
+10.	Velocidade média: distância/tempo, formatada.
+
+Aritmética e operadores
+
+11.	Operações básicas: +, −, ×, ÷ com dois números.
+12.	Divisão inteira e resto: usar // e %.
+13.	Potência: usar ** para quadrado e cubo.
+14.	Média aritmética: de três números.
+15.	Regra de três: calcular proporcionalidade simples.
+16.	Conversão de unidades: metros para centímetros.
+17.	Desconto: preço com percentual.
+18.	Acréscimo: juros simples.
+19.	IMC: peso/(altura²) com classificação textual simples.
+20.	Par ou ímpar: verificar com % 2.
+
+Condicionais
+
+21.	Maior número: entre dois valores.
+22.	Classificação de idade: criança, adolescente, adulto, idoso.
+23.	Aprovado/reprovado: média com limiar.
+24.	Triângulo válido: verificar condições (a+b>c etc.).
+25.	Tipo de triângulo: equilátero, isósceles, escaleno.
+26.	Múltiplos: verificar se a é múltiplo de b.
+27.	Ano bissexto: regra de divisibilidade.
+28.	Calculadora simples: escolher operação por menu.
+29.	Faixa de nota: 0–10 com mensagens.
+30.	Tarifa de estacionamento: baseado em horas e faixas.
+
+Loops e contagem
+
+31.	Contar de 1 a 10: for e while.
+32.	Tabuada: de um número até 10.
+33.	Soma de 1 a n: laço acumulando.
+34.	Fatorial: iterativo.
+35.	Fibonacci: primeiros n termos.
+36.	Contar pares e ímpares: em intervalo.
+37.	Números primos: checar primalidade simples.
+38.	Somar pares: de 1 a n.
+39.	Produto acumulado: multiplicar lista de números.
+40.	Contagem regressiva: com time.sleep opcional.
+
+Strings
+
+41.	Tamanho da string: len.
+42.	Upper/Lower/Title: normalizar texto.
+43.	Remover espaços: strip, replace.
+44.	Substring presente: in para busca.
+45.	Palíndromo: verificar invertendo string.
+46.	Contar vogais e consoantes: percorrer caracteres.
+47.	Substituir caracteres: trocar vogais por *.
+48.	Separar palavras: split e contar.
+49.	Formatar CPF: inserir pontos e traço (sem validar).
+50.	Inverter palavras: ordem invertida na frase.
+
+Listas e tuplas
+
+51.	Criar lista de números: entrada separada por espaço.
+52.	Maior e menor: max, min.
+53.	Soma e média: sum e cálculo manual.
+54.	Remover duplicados: converter para set.
+55.	Ordenar lista: crescente e decrescente.
+56.	Buscar elemento: índice com index (tratar ausência).
+57.	Fatiamento: pegar sublista [i:j].
+58.	Unir listas: concatenação e extend.
+59.	Filtrar pares: list comprehension.
+60.	Tupla imutável: criar e acessar elementos.
+
+Dicionários
+
+61.	Agenda simples: nome -> telefone.
+62.	Contar frequências: de palavras em texto.
+63.	Atualizar valor: alterar chave existente.
+64.	Remover chave: pop.
+65.	Mapear notas: aluno -> lista de notas e média.
+66.	Inverter dicionário: trocar chave/valor (cuidado com duplicadas).
+67.	Mesclar dicionários: usando | ou update.
+68.	Estoque: produto -> quantidade e saída/entrada.
+69.	Ocorrência de letras: contar por caractere.
+70.	Pesquisar por valor: encontrar chave(s) por valor específico.
+
+Funções
+
+71.	Saudação: função que recebe nome.
+72.	Soma de lista: função que retorna soma.
+73.	Média com validação: evita divisão por zero.
+74.	Máximo/mínimo manual: sem usar max/min.
+75.	É primo: função booleana.
+76.	Fatorial recursivo: e iterativo para comparar.
+77.	Converter temperatura: função com tipo de conversão.
+78.	Limpar texto: função que normaliza, tira acentos (opcional).
+79.	Validador simples de senha: mínimo de caracteres e dígitos.
+80.	Função de tabuada: recebe n e retorna lista.
+
+Compreensões, lambda e map
+
+81.	Quadrados de 1 a n: list comprehension.
+82.	Filtrar maiores que k: list comprehension com condição.
+83.	Transformar para string: map(str, lista).
+84.	Soma de comprimentos: sum(len(x) for x in lista).
+85.	Dobrar números: lambda com map.
+86.	Somar pares: filter e sum.
+87.	Chaves maiúsculas: dicionário por compreensão.
+88.	Flatten simples: achatar lista de listas (uma dimensão).
+89.	Remover None: filter para limpar.
+90.	Zip de listas: juntar nomes e notas em tuplas.
+
+Arquivos e entrada/saída
+
+91.	Escrever em arquivo: open com w.
+92.	Ler arquivo: imprimir linhas.
+93.	Contar linhas e palavras: de um .txt.
+94.	Anexar conteúdo: a e verificar resultado.
+95.	CSV simples: escrever e ler usando csv.
+96.	Salvar lista: serializar como texto, um item por linha.
+97.	Log de operações: registrar tempo e ação.
+98.	Copiar arquivo: ler de um e escrever em outro.
+99.	Remover linhas vazias: processar e salvar limpo.
+100.	Buscar palavra em arquivo: retornar linhas que contêm o termo.
+
+Como tirar o máximo desses exercícios
+
+•	Objetivo claro: escolha 1 categoria por dia e faça 3–5 itens.
+•	Teste variado: sempre crie casos diferentes (valores extremos, entradas vazias).
+•	Refatorar: depois que funciona, melhore nomes, extraia funções, trate erros.
+•	Registrar aprendizado: mantenha um arquivo “diário de código” com dúvidas e soluções.
