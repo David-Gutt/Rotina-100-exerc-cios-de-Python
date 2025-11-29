@@ -1,0 +1,36 @@
+Olá, Mundo e aquecimento
+
+Meta: imprimir uma mensagem na tela e rodar seu primeiro script.
+
+Tarefas:
+
+Primeiro arquivo: criar 01.py com uma impressão simples.
+
+Rodar o script: executar no terminal.
+
+python
+# dia01.py
+print("Olá, Mundo!")
+Aquecimento extra:
+
+Variável simples: guardar seu nome e cumprimentar.
+
+Comentários: adicionar um comentário explicando o que o programa faz.
+
+Variações de mensagem: imprimir duas linhas diferentes.
+
+# Exercício 1: Escreva um programa em Python que exiba a mensagem "olá, mundo!" na tela.
+
+print("olá, mundo!")
+
+print("Bem vindo ao Python!")
+
+print("Este é o meu primeiro Exerício em Python!")
+
+# Um tipo de variaçao nesse priemiro exercício
+
+nome = "Gutt"
+print(" Olá, Mundo! ")
+print("Meu nome é", nome) 
+
+# Fim do programa
