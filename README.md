@@ -1,1 +1,1 @@
-# Rotina-e-lista-de-100-exerc-cios-f-ceis-de-Python
+# Rotina e lista de 100 exercícios de Python
